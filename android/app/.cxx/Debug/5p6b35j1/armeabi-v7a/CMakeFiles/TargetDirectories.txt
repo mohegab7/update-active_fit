@@ -1,0 +1,2 @@
+E:/01_Education/02_Final_Project/ActiveFitV5/project-master/android/app/.cxx/Debug/5p6b35j1/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/01_Education/02_Final_Project/ActiveFitV5/project-master/android/app/.cxx/Debug/5p6b35j1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
